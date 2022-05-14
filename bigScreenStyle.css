@@ -10,7 +10,7 @@ body {
 }
 
 .information-picture {
-    position: absolute;
+    position: fixed;
     margin-left: 14%;
     margin-top: 0.5%;
     z-index: 100;
@@ -19,7 +19,8 @@ body {
 }
 
 #meikaMandoliini {
-    position: absolute;
+    height: 30%;
+    position: fixed;
     border: 1px solid white;
 }
 
