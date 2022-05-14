@@ -19,8 +19,7 @@ body {
 }
 
 #meikaMandoliini {
-    height: 30%;
-    position: fixed;
+    height: 125%;
     border: 1px solid white;
 }
 
@@ -63,7 +62,7 @@ body {
 
 .nav-list {
     width: 100%;
-    margin-top: 200%;
+    margin-top: 230%;
     background-color: rgba(29,30,32,255, 0);
 }
 
