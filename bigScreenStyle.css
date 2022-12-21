@@ -25,59 +25,10 @@ body {
 
 .information-container {
     position: absolute;
-    margin-left: 17.5%;
-    margin-right: 15%;
-    margin-top: 7%;
-    border: 1px solid white;
+    margin-top: 2%;
     background-color: rgba(29,30,32,255, 0);
-    height: 70%;
-    width: 65%;
-}
-
-.nav-logo{
-    width: 50px;
-    height: 5px;
-    background-color: rgb(255, 255, 255);
-    margin: 6px 0;
-    margin-left: 10px;
-}
-
-.nav-button {
-    text-align: center;
-    padding: 10px;
-    background-color: rgb(233, 120, 120);
-}
-
-.nav {
-    position: absolute;
-    width: 7.1%;
-    z-index: 99;
-    height: 100%;
-}
-
-.nav-icon {
-    margin-left: 50%;
-    transform: translate(-50%);
-}
-
-.nav-list {
-    width: 100%;
-    margin-top: 230%;
-    background-color: rgba(29,30,32,255, 0);
-}
-
-.nav-icon-div {
-    width: 100%;
-    padding: 25px;
-}
-
-.social-icons {
-    margin-left: 50px;
-}
-
-.icons-container {
-    margin-top: 200%;
-    text-align: left;
+    height: 90%;
+    width: 90%;
 }
 
 .red {
@@ -85,10 +36,15 @@ body {
 }
 
 .information-parent {
-    margin-top: 5%;
     display: inline-block;
-    width: 90%;
-    height: 60%;  
+    width: 100%;
+    height: %;  
+}
+
+.information-parent div {
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 66%;
 }
 
 .information-header {
@@ -112,14 +68,11 @@ body {
     overflow-y: scroll;
 }
 
-.information-parent div {
-    margin-left: 25%;
-    width: 75%;
-}
 
 .technologiesTable {
-    margin-left: 25%;
-    width: 75%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 66%;
     font-family: "Roboto", sans-serif;
     padding-bottom: 30px;
 }
@@ -137,7 +90,7 @@ td {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
     font-weight: 100;
-    font-size: 25px; 
+    font-size: 20px; 
     word-wrap: break-word;
 }
 
