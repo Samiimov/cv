@@ -27,7 +27,7 @@ body {
     margin-top: 2%;
     background-color: rgba(29,30,32,255, 0);
     height: 90%;
-    width: 90%;
+    width: 100%;
 }
 
 .red {
@@ -64,7 +64,6 @@ body {
     background-color: rgba(29,30,32, 0);
     width: 100%;
     height: 100%;
-    overflow-y: scroll;
 }
 
 
